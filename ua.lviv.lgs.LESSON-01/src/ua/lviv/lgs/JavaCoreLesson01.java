@@ -1,6 +1,6 @@
 package ua.lviv.lgs;
 
-public class Lesson01 {
+public class JavaCoreLesson01 {
 
 	public static void main(String[] args) {
 		byte bt = 74;
